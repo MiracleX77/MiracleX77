@@ -5,9 +5,8 @@
 
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiracleX77&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=MiracleX77&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=MiracleX77&theme=hacker&border_radius=7&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MiracleX77&theme=hacker&border_radius=7&date_format=%5BY%20%5DM%20j&card_width=1000)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tankubopa777&theme=neon-dark&border_radius=7&locale=ja&card_width=800)](https://git.io/streak-stats)
 
 <!--
 **MiracleX77/MiracleX77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
