@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi My Name is Big 👋
+### -> Phatchara Rakchuai <-
+### -> Software Engineer Student <-
+### -> Thammasart University <-
+
+
+
+
+
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tankubopa777&theme=gotham&show_icons=true&count_private=true&hide_title=true&hide_border=true) -->
   
